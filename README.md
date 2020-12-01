@@ -4,7 +4,7 @@ This is the two-week project I made for BVW course at CMU ETC. It took microphon
 
 ## My contribution to this project
 #### Movement controller with webcam 
-
+![](Images/movement.gif)
 #### Simple human AI with NavMesh
 
 #### User Interface
