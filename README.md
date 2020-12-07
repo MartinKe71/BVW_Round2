@@ -5,7 +5,7 @@ This is the two-week project I made for BVW course at CMU ETC. It took microphon
 Players would be playing as a vampire in the game. They would use their head to navigate around, open their mouths to attack humen, and use their voice to cast magic spells to transform into bats.
 
 ## My contribution to this project
-#### Movement controller with webcam 
+#### Movement controller with webcam & Navigation bar displaying human position
 ![](Images/movement.gif)
 #### Simple human AI with NavMesh
 
