@@ -1,4 +1,4 @@
-# BVW_Round2
+# BVW_Round2: Under The Bloody Moon
  
 This is the two-week project I made for BVW course at CMU ETC. It took microphone and webcam as inputs.
 
