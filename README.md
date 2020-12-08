@@ -7,6 +7,7 @@ Players would be playing as a vampire in the game. They would use their head to 
 ## My contribution to this project
 #### Movement controller with webcam
 ![](Images/movement.gif)
+![](Images/bat.gif)
 #### Simple human AI with NavMesh & Navigation bar displaying human position
 ![](Images/navigation.gif)
 
